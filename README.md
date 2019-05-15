@@ -1,4 +1,4 @@
 # Surface-Wave Waveform Classification Using Machine Learning Algorithms
 
 
-![poster](https://user-images.githubusercontent.com/42804316/57740263-e4544780-7684-11e9-9b7b-0a28a473e94e.png)
+![poster_png](https://user-images.githubusercontent.com/42804316/57740421-d9e67d80-7685-11e9-80f3-4662f1f3b473.png)
